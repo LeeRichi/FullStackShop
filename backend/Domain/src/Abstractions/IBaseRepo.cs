@@ -6,7 +6,7 @@ using Domain.src.Entities;
 using Domain.src.Shared;
 
 
-namespace Domain.src.Abstraction
+namespace Domain.src.Abstractions
 {
     public interface IBaseRepo<T> 
     {

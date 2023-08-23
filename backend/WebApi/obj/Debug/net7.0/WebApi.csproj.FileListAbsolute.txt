@@ -31,3 +31,9 @@
 /Users/ichr/Desktop/FullStackShop/backend/WebApi/obj/Debug/net7.0/WebApi.pdb
 /Users/ichr/Desktop/FullStackShop/backend/WebApi/obj/Debug/net7.0/WebApi.genruntimeconfig.cache
 /Users/ichr/Desktop/FullStackShop/backend/WebApi/obj/Debug/net7.0/ref/WebApi.dll
+/Users/ichr/Desktop/FullStackShop/backend/WebApi/bin/Debug/net7.0/Business.dll
+/Users/ichr/Desktop/FullStackShop/backend/WebApi/bin/Debug/net7.0/Controller.dll
+/Users/ichr/Desktop/FullStackShop/backend/WebApi/bin/Debug/net7.0/Domain.dll
+/Users/ichr/Desktop/FullStackShop/backend/WebApi/bin/Debug/net7.0/Controller.pdb
+/Users/ichr/Desktop/FullStackShop/backend/WebApi/bin/Debug/net7.0/Business.pdb
+/Users/ichr/Desktop/FullStackShop/backend/WebApi/bin/Debug/net7.0/Domain.pdb
