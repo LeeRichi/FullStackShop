@@ -14,12 +14,11 @@ namespace Domain.src.Entities
         public User User{ get; set; }   
     }
 
-    [JsonConverter(typeof(JsonStringEnumConverter))]
+    // [JsonConverter(typeof(JsonStringEnumConverter))]
     public enum OrderStatus {
         Pending,
         Shipped,
         Arrived,
         PickedUp,
-        
     }
 }

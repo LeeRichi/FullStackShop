@@ -9,8 +9,7 @@ namespace Domain.src.Entities
 {
     public class User : BaseEntityWithId
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public string Name {get; set;}
         public string Email { get; set; }
         public string Avatar { get; set; }  
         public string Password { get; set; }
@@ -18,7 +17,7 @@ namespace Domain.src.Entities
         public Role Role { get; set; }
     }
 
-    [JsonConverter(typeof(JsonStringEnumConverter))]
+    // [JsonConverter(typeof(JsonStringEnumConverter))]
     public enum Role
     {
         Admin,
